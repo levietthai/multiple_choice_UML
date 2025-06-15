@@ -100,117 +100,7 @@
     "correct": 2
   },
   {
-    "question": "Sơ đồ nào mô tả luồng thực thi của hệ thống?",
-    "answers": [
-      "Class Diagram",
-      "Activity Diagram",
-      "Component Diagram",
-      "Deployment Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, mối quan hệ aggregation được biểu diễn bằng:",
-    "answers": [
-      "Đường thẳng",
-      "Đường đứt nét",
-      "Hình thoi rỗng",
-      "Hình thoi đặc"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Sơ đồ nào mô tả tương tác giữa các đối tượng theo thời gian?",
-    "answers": [
-      "State Diagram",
-      "Sequence Diagram",
-      "Activity Diagram",
-      "Use Case Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, mối quan hệ composition được biểu diễn bằng:",
-    "answers": [
-      "Hình thoi rỗng",
-      "Hình thoi đặc",
-      "Đường thẳng",
-      "Đường đứt nét"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Sơ đồ nào mô tả cấu trúc tĩnh của hệ thống?",
-    "answers": [
-      "Activity Diagram",
-      "Sequence Diagram",
-      "Class Diagram",
-      "State Diagram"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Trong UML, actor là:",
-    "answers": [
-      "Một lớp trong hệ thống",
-      "Một đối tượng cụ thể",
-      "Người dùng hoặc hệ thống bên ngoài",
-      "Một phương thức của lớp"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Sơ đồ nào mô tả cách triển khai phần mềm lên phần cứng?",
-    "answers": [
-      "Component Diagram",
-      "Deployment Diagram",
-      "Package Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, mối quan hệ dependency được biểu diễn bằng:",
-    "answers": [
-      "Đường thẳng",
-      "Đường đứt nét với mũi tên",
-      "Hình thoi",
-      "Đường liền nét với mũi tên"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Sơ đồ nào mô tả cấu trúc của các thành phần phần mềm?",
-    "answers": [
-      "Deployment Diagram",
-      "Component Diagram",
-      "Class Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, mối quan hệ association được biểu diễn bằng:",
-    "answers": [
-      "Đường đứt nét",
-      "Đường liền nét",
-      "Hình thoi",
-      "Đường có mũi tên"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Sơ đồ nào mô tả các gói và phụ thuộc giữa chúng?",
-    "answers": [
-      "Component Diagram",
-      "Package Diagram",
-      "Deployment Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, multiplicity là:",
+    "question": "Trong UML, multiplicity là gì?",
     "answers": [
       "Số lượng đối tượng tham gia vào mối quan hệ",
       "Tên của mối quan hệ",
@@ -220,17 +110,7 @@
     "correct": 0
   },
   {
-    "question": "Sơ đồ nào mô tả các trường hợp sử dụng của hệ thống?",
-    "answers": [
-      "Class Diagram",
-      "Use Case Diagram",
-      "Activity Diagram",
-      "State Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, stereotype là:",
+    "question": "Trong UML, stereotype là gì?",
     "answers": [
       "Một loại mối quan hệ",
       "Một cách phân loại phần tử UML",
@@ -240,17 +120,7 @@
     "correct": 1
   },
   {
-    "question": "Sơ đồ nào mô tả các đối tượng cụ thể và mối quan hệ giữa chúng?",
-    "answers": [
-      "Class Diagram",
-      "Object Diagram",
-      "Component Diagram",
-      "Deployment Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, constraint là:",
+    "question": "Trong UML, constraint là gì?",
     "answers": [
       "Một quy tắc bắt buộc",
       "Một mối quan hệ",
@@ -260,17 +130,7 @@
     "correct": 0
   },
   {
-    "question": "Sơ đồ nào mô tả các thành phần phần mềm và phụ thuộc giữa chúng?",
-    "answers": [
-      "Deployment Diagram",
-      "Component Diagram",
-      "Package Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, interface là:",
+    "question": "Trong UML, interface là gì?",
     "answers": [
       "Một lớp cụ thể",
       "Một tập hợp các phương thức",
@@ -280,17 +140,7 @@
     "correct": 1
   },
   {
-    "question": "Sơ đồ nào mô tả các node và cách triển khai phần mềm?",
-    "answers": [
-      "Component Diagram",
-      "Deployment Diagram",
-      "Package Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, abstract class là:",
+    "question": "Trong UML, abstract class là gì?",
     "answers": [
       "Lớp không thể tạo đối tượng",
       "Lớp có tất cả phương thức cụ thể",
@@ -300,7 +150,7 @@
     "correct": 0
   },
   {
-    "question": "Trong UML, visibility là:",
+    "question": "Trong UML, visibility là gì?",
     "answers": [
       "Phạm vi truy cập của phần tử",
       "Tên của phần tử",
@@ -310,989 +160,179 @@
     "correct": 0
   },
   {
-    "question": "Sơ đồ nào mô tả các trường hợp sử dụng của hệ thống?",
-    "answers": [
-      "Class Diagram",
-      "Use Case Diagram",
-      "Activity Diagram",
-      "State Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, multiplicity là:",
-    "answers": [
-      "Số lượng đối tượng tham gia vào mối quan hệ",
-      "Tên của mối quan hệ",
-      "Kiểu dữ liệu của thuộc tính",
-      "Phạm vi truy cập của phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các đối tượng cụ thể và mối quan hệ giữa chúng?",
-    "answers": [
-      "Class Diagram",
-      "Object Diagram",
-      "Component Diagram",
-      "Deployment Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, constraint là:",
-    "answers": [
-      "Một quy tắc bắt buộc",
-      "Một mối quan hệ",
-      "Một phương thức",
-      "Một thuộc tính"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các thành phần phần mềm và phụ thuộc giữa chúng?",
-    "answers": [
-      "Deployment Diagram",
-      "Component Diagram",
-      "Package Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, interface là:",
-    "answers": [
-      "Một lớp cụ thể",
-      "Một tập hợp các phương thức",
-      "Một mối quan hệ",
-      "Một thuộc tính"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Sơ đồ nào mô tả các node và cách triển khai phần mềm?",
-    "answers": [
-      "Component Diagram",
-      "Deployment Diagram",
-      "Package Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, abstract class là:",
-    "answers": [
-      "Lớp không thể tạo đối tượng",
-      "Lớp có tất cả phương thức cụ thể",
-      "Lớp không có thuộc tính",
-      "Lớp không có phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "UML là gì? (11)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (12)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (13)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (14)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (15)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (16)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (17)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (18)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (19)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (20)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (21)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (22)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (23)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (24)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (25)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (26)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (27)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (28)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (29)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (30)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (31)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (32)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (33)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (34)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (35)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (36)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (37)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (38)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (39)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (40)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (41)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (42)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (43)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (44)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (45)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (46)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (47)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (48)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (49)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (50)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (51)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (52)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (53)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (54)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (55)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (56)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (57)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (58)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (59)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (60)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (61)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (62)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (63)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (64)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (65)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (66)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (67)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (68)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (69)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (70)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (71)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (72)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (73)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (74)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (75)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (76)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (77)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (78)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (79)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (80)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (81)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (82)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (83)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (84)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (85)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (86)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (87)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (88)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (89)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (90)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (91)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (92)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (93)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (94)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (95)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (96)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (97)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (98)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (99)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "UML là gì? (100)",
-    "answers": [
-      "Ngôn ngữ lập trình hướng đối tượng",
-      "Phương pháp kiểm thử hệ thống",
-      "Ngôn ngữ mô hình hóa thống nhất",
-      "Phần mềm thiết kế giao diện người dùng"
-    ],
-    "correct": 2
-  },
-  {
-    "question": "Trong UML, package là:",
+    "question": "Trong UML, package là gì?",
     "answers": [
       "Một nhóm các phần tử liên quan",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, lifeline là gì?",
+    "answers": [
+      "Thời gian sống của đối tượng",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, swimlane là gì?",
+    "answers": [
+      "Một phần của sơ đồ hoạt động",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, transition là gì?",
+    "answers": [
+      "Sự chuyển đổi giữa các trạng thái",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, node là gì?",
+    "answers": [
+      "Một phần cứng hoặc phần mềm",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, artifact là gì?",
+    "answers": [
+      "Một sản phẩm của quá trình phát triển",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, link là gì?",
+    "answers": [
+      "Mối quan hệ giữa các đối tượng",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, actor là gì?",
+    "answers": [
+      "Người dùng hoặc hệ thống bên ngoài",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, message là gì?",
+    "answers": [
+      "Giao tiếp giữa các đối tượng",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, action là gì?",
+    "answers": [
+      "Một bước thực hiện",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, state là gì?",
+    "answers": [
+      "Một điều kiện của đối tượng",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, component là gì?",
+    "answers": [
+      "Một phần của hệ thống",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, deployment là gì?",
+    "answers": [
+      "Triển khai phần mềm",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, object là gì?",
+    "answers": [
+      "Một thể hiện của lớp",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, use case là gì?",
+    "answers": [
+      "Một chức năng của hệ thống",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, sequence là gì?",
+    "answers": [
+      "Thứ tự các message",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, activity là gì?",
+    "answers": [
+      "Một hành động",
+      "Một loại mối quan hệ",
+      "Một kiểu dữ liệu",
+      "Một phương thức"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong UML, state machine là gì?",
+    "answers": [
+      "Một mô hình trạng thái",
       "Một loại mối quan hệ",
       "Một kiểu dữ liệu",
       "Một phương thức"
@@ -1310,16 +350,6 @@
     "correct": 1
   },
   {
-    "question": "Trong UML, lifeline là:",
-    "answers": [
-      "Thời gian sống của đối tượng",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
     "question": "Sơ đồ nào mô tả các bước thực hiện của một use case?",
     "answers": [
       "Class Diagram",
@@ -1328,16 +358,6 @@
       "Object Diagram"
     ],
     "correct": 1
-  },
-  {
-    "question": "Trong UML, swimlane là:",
-    "answers": [
-      "Một phần của sơ đồ hoạt động",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
   },
   {
     "question": "Sơ đồ nào mô tả các trạng thái của một đối tượng?",
@@ -1350,16 +370,6 @@
     "correct": 1
   },
   {
-    "question": "Trong UML, transition là:",
-    "answers": [
-      "Sự chuyển đổi giữa các trạng thái",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
     "question": "Sơ đồ nào mô tả các thành phần phần mềm?",
     "answers": [
       "Deployment Diagram",
@@ -1368,16 +378,6 @@
       "Object Diagram"
     ],
     "correct": 1
-  },
-  {
-    "question": "Trong UML, node là:",
-    "answers": [
-      "Một phần cứng hoặc phần mềm",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
   },
   {
     "question": "Sơ đồ nào mô tả các gói và phụ thuộc?",
@@ -1390,16 +390,6 @@
     "correct": 1
   },
   {
-    "question": "Trong UML, artifact là:",
-    "answers": [
-      "Một sản phẩm của quá trình phát triển",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
     "question": "Sơ đồ nào mô tả các đối tượng cụ thể?",
     "answers": [
       "Class Diagram",
@@ -1410,16 +400,6 @@
     "correct": 1
   },
   {
-    "question": "Trong UML, link là:",
-    "answers": [
-      "Mối quan hệ giữa các đối tượng",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
     "question": "Sơ đồ nào mô tả các use case?",
     "answers": [
       "Class Diagram",
@@ -1428,16 +408,6 @@
       "State Diagram"
     ],
     "correct": 1
-  },
-  {
-    "question": "Trong UML, actor là:",
-    "answers": [
-      "Người dùng hoặc hệ thống bên ngoài",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
   },
   {
     "question": "Sơ đồ nào mô tả các message?",
@@ -1450,16 +420,6 @@
     "correct": 1
   },
   {
-    "question": "Trong UML, message là:",
-    "answers": [
-      "Giao tiếp giữa các đối tượng",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
     "question": "Sơ đồ nào mô tả các hoạt động?",
     "answers": [
       "Class Diagram",
@@ -1470,16 +430,6 @@
     "correct": 1
   },
   {
-    "question": "Trong UML, action là:",
-    "answers": [
-      "Một bước thực hiện",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
     "question": "Sơ đồ nào mô tả các trạng thái?",
     "answers": [
       "Activity Diagram",
@@ -1488,176 +438,6 @@
       "Use Case Diagram"
     ],
     "correct": 1
-  },
-  {
-    "question": "Trong UML, state là:",
-    "answers": [
-      "Một điều kiện của đối tượng",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các thành phần phần mềm?",
-    "answers": [
-      "Deployment Diagram",
-      "Component Diagram",
-      "Package Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, component là:",
-    "answers": [
-      "Một phần của hệ thống",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các node?",
-    "answers": [
-      "Component Diagram",
-      "Deployment Diagram",
-      "Package Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, deployment là:",
-    "answers": [
-      "Triển khai phần mềm",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các gói?",
-    "answers": [
-      "Component Diagram",
-      "Package Diagram",
-      "Deployment Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, package là:",
-    "answers": [
-      "Một nhóm các phần tử",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các đối tượng?",
-    "answers": [
-      "Class Diagram",
-      "Object Diagram",
-      "Component Diagram",
-      "Deployment Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, object là:",
-    "answers": [
-      "Một thể hiện của lớp",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các use case?",
-    "answers": [
-      "Class Diagram",
-      "Use Case Diagram",
-      "Activity Diagram",
-      "State Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, use case là:",
-    "answers": [
-      "Một chức năng của hệ thống",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các message?",
-    "answers": [
-      "State Diagram",
-      "Sequence Diagram",
-      "Activity Diagram",
-      "Use Case Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, sequence là:",
-    "answers": [
-      "Thứ tự các message",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các hoạt động?",
-    "answers": [
-      "Class Diagram",
-      "Activity Diagram",
-      "State Diagram",
-      "Object Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, activity là:",
-    "answers": [
-      "Một hành động",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
-    "question": "Sơ đồ nào mô tả các trạng thái?",
-    "answers": [
-      "Activity Diagram",
-      "State Diagram",
-      "Sequence Diagram",
-      "Use Case Diagram"
-    ],
-    "correct": 1
-  },
-  {
-    "question": "Trong UML, state machine là:",
-    "answers": [
-      "Một mô hình trạng thái",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
   },
   {
     "question": "Sơ đồ nào mô tả các thành phần?",
@@ -1670,22 +450,162 @@
     "correct": 1
   },
   {
-    "question": "Trong UML, component là:",
-    "answers": [
-      "Một phần của hệ thống",
-      "Một loại mối quan hệ",
-      "Một kiểu dữ liệu",
-      "Một phương thức"
-    ],
-    "correct": 0
-  },
-  {
     "question": "Sơ đồ nào mô tả các node?",
     "answers": [
       "Component Diagram",
       "Deployment Diagram",
       "Package Diagram",
       "Object Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào mô tả thời gian và sự kiện giữa các đối tượng?",
+    "answers": [
+      "Sequence Diagram",
+      "Timing Diagram",
+      "Activity Diagram",
+      "State Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào mô tả tương tác giữa các đối tượng dưới dạng đồ thị?",
+    "answers": [
+      "Sequence Diagram",
+      "Communication Diagram",
+      "Activity Diagram",
+      "State Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào mô tả cấu trúc bên trong của một lớp?",
+    "answers": [
+      "Class Diagram",
+      "Composite Structure Diagram",
+      "Component Diagram",
+      "Object Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào kết hợp các sơ đồ tương tác khác nhau?",
+    "answers": [
+      "Activity Diagram",
+      "Interaction Overview Diagram",
+      "State Diagram",
+      "Use Case Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào mô tả các extension của UML?",
+    "answers": [
+      "Package Diagram",
+      "Profile Diagram",
+      "Component Diagram",
+      "Deployment Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trong Timing Diagram, trục nào biểu diễn thời gian?",
+    "answers": [
+      "Trục ngang",
+      "Trục dọc",
+      "Cả hai trục",
+      "Không có trục nào"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Communication Diagram khác với Sequence Diagram ở điểm nào?",
+    "answers": [
+      "Không thể hiện thời gian",
+      "Không thể hiện message",
+      "Không thể hiện đối tượng",
+      "Không thể hiện tương tác"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Trong Composite Structure Diagram, port là gì?",
+    "answers": [
+      "Điểm tương tác với bên ngoài",
+      "Điểm kết nối nội bộ",
+      "Điểm khởi đầu",
+      "Điểm kết thúc"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Interaction Overview Diagram kết hợp các sơ đồ nào?",
+    "answers": [
+      "Sequence và Activity",
+      "State và Activity",
+      "Class và Object",
+      "Component và Deployment"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Profile Diagram mở rộng UML bằng cách nào?",
+    "answers": [
+      "Thêm stereotype",
+      "Thêm class",
+      "Thêm object",
+      "Thêm component"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sơ đồ nào phù hợp nhất để mô tả các ràng buộc thời gian?",
+    "answers": [
+      "Sequence Diagram",
+      "Timing Diagram",
+      "Activity Diagram",
+      "State Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào phù hợp nhất để mô tả tương tác giữa các đối tượng trong một hệ thống phân tán?",
+    "answers": [
+      "Sequence Diagram",
+      "Communication Diagram",
+      "Activity Diagram",
+      "State Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào phù hợp nhất để mô tả cấu trúc bên trong của một component phức tạp?",
+    "answers": [
+      "Class Diagram",
+      "Composite Structure Diagram",
+      "Component Diagram",
+      "Object Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào phù hợp nhất để mô tả luồng tương tác giữa các use case?",
+    "answers": [
+      "Activity Diagram",
+      "Interaction Overview Diagram",
+      "State Diagram",
+      "Use Case Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào phù hợp nhất để mô tả các extension của UML cho một domain cụ thể?",
+    "answers": [
+      "Package Diagram",
+      "Profile Diagram",
+      "Component Diagram",
+      "Deployment Diagram"
     ],
     "correct": 1
   }

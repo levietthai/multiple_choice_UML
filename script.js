@@ -20,7 +20,7 @@ themeSwitch.addEventListener('click', () => {
 });
 
 // Load questions from JSON file
-fetch('quiz_data_uml_100_real.json')
+fetch('quiz_data_uml_100_real.json?v=' + Date.now())
     .then(response => response.json())
     .then(data => {
         questions = shuffleArray(data);

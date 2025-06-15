@@ -608,5 +608,115 @@
       "Deployment Diagram"
     ],
     "correct": 1
-  }
+  },
+  {
+  "question": "Sơ đồ nào mô tả luồng thực thi của hệ thống?",
+  "answers": [
+    "Class Diagram",
+    "Activity Diagram",
+    "Component Diagram",
+    "Deployment Diagram"
+  ],
+  "correct": 1
+},
+{
+  "question": "Trong UML, mối quan hệ aggregation được biểu diễn bằng:",
+  "answers": [
+    "Đường thẳng",
+    "Đường đứt nét",
+    "Hình thoi rỗng",
+    "Hình thoi đặc"
+  ],
+  "correct": 2
+},
+{
+  "question": "Sơ đồ nào mô tả tương tác giữa các đối tượng theo thời gian?",
+  "answers": [
+    "State Diagram",
+    "Sequence Diagram",
+    "Activity Diagram",
+    "Use Case Diagram"
+  ],
+  "correct": 1
+},
+{
+  "question": "Trong UML, mối quan hệ composition được biểu diễn bằng:",
+  "answers": [
+    "Hình thoi rỗng",
+    "Hình thoi đặc",
+    "Đường thẳng",
+    "Đường đứt nét"
+  ],
+  "correct": 1
+},
+{
+  "question": "Sơ đồ nào mô tả cấu trúc tĩnh của hệ thống?",
+  "answers": [
+    "Activity Diagram",
+    "Sequence Diagram",
+    "Class Diagram",
+    "State Diagram"
+  ],
+  "correct": 2
+},
+{
+  "question": "Trong UML, actor là:",
+  "answers": [
+    "Một lớp trong hệ thống",
+    "Một đối tượng cụ thể",
+    "Người dùng hoặc hệ thống bên ngoài",
+    "Một phương thức của lớp"
+  ],
+  "correct": 2
+},
+{
+  "question": "Sơ đồ nào mô tả cách triển khai phần mềm lên phần cứng?",
+  "answers": [
+    "Component Diagram",
+    "Deployment Diagram",
+    "Package Diagram",
+    "Object Diagram"
+  ],
+  "correct": 1
+},
+{
+  "question": "Trong UML, mối quan hệ dependency được biểu diễn bằng:",
+  "answers": [
+    "Đường thẳng",
+    "Đường đứt nét với mũi tên",
+    "Hình thoi",
+    "Đường liền nét với mũi tên"
+  ],
+  "correct": 1
+},
+{
+  "question": "Sơ đồ nào mô tả cấu trúc của các thành phần phần mềm?",
+  "answers": [
+    "Deployment Diagram",
+    "Component Diagram",
+    "Class Diagram",
+    "Object Diagram"
+  ],
+  "correct": 1
+},
+{
+  "question": "Trong UML, mối quan hệ association được biểu diễn bằng:",
+  "answers": [
+    "Đường đứt nét",
+    "Đường liền nét",
+    "Hình thoi",
+    "Đường có mũi tên"
+  ],
+  "correct": 1
+},
+{
+  "question": "Sơ đồ nào mô tả các gói và phụ thuộc giữa chúng?",
+  "answers": [
+    "Component Diagram",
+    "Package Diagram",
+    "Deployment Diagram",
+    "Object Diagram"
+  ],
+  "correct": 1
+}
 ]

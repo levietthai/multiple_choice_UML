@@ -23,7 +23,7 @@ themeSwitch.addEventListener('click', () => {
 fetch('quiz_data_uml_100_real.json?v=' + Date.now())
     .then(response => response.json())
     .then(data => {
-        questions = shuffleArray(data);
+        questions = data; // Removed shuffling of questions here
         totalElement.textContent = questions.length;
     })
     .catch(error => console.error('Error loading questions:', error));
@@ -41,7 +41,7 @@ function startGame() {
     currentQuestionIndex = 0;
     score = 0;
     questionContainerElement.classList.remove('hide');
-    questions = shuffleArray(questions); // Shuffle questions when starting new game
+    // questions = shuffleArray(questions); // Removed shuffling of questions here
     setNextQuestion();
 }
 
@@ -52,12 +52,13 @@ function setNextQuestion() {
 
 function showQuestion(question) {
     questionElement.innerText = question.question;
-    const shuffledAnswers = shuffleArray([...question.answers]);
-    shuffledAnswers.forEach((answer, index) => {
+    // No shuffling of answers
+    question.answers.forEach((answer, index) => {
         const button = document.createElement('button');
         button.innerText = answer;
         button.classList.add('btn', 'answer-btn', 'fade-in');
-        button.addEventListener('click', () => selectAnswer(shuffledAnswers.indexOf(answer)));
+        // Pass the original index directly
+        button.addEventListener('click', () => selectAnswer(index));
         answerButtonsElement.appendChild(button);
     });
 }

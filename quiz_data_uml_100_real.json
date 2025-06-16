@@ -112,12 +112,12 @@
   {
     "question": "Trong UML, stereotype là gì?",
     "answers": [
-      "Một loại mối quan hệ",
-      "Một cách phân loại phần tử UML",
+      "Một cách mở rộng ngữ nghĩa phần tử UML",
       "Một kiểu dữ liệu",
-      "Một phương thức đặc biệt"
+      "Một lớp cụ thể",
+      "Một loại sơ đồ"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "Trong UML, constraint là gì?",
@@ -132,12 +132,12 @@
   {
     "question": "Trong UML, interface là gì?",
     "answers": [
+      "Một tập hợp các phương thức trừu tượng không có cài đặt",
       "Một lớp cụ thể",
-      "Một tập hợp các phương thức",
-      "Một mối quan hệ",
+      "Một kiểu dữ liệu",
       "Một thuộc tính"
     ],
-    "correct": 1
+    "correct": 0
   },
   {
     "question": "Trong UML, abstract class là gì?",
@@ -522,7 +522,7 @@
   {
     "question": "Communication Diagram khác với Sequence Diagram ở điểm nào?",
     "answers": [
-      "Không thể hiện thời gian",
+      "Không thể hiện rõ trình tự thời gian",
       "Không thể hiện message",
       "Không thể hiện đối tượng",
       "Không thể hiện tương tác"
@@ -610,113 +610,113 @@
     "correct": 1
   },
   {
-  "question": "Sơ đồ nào mô tả luồng thực thi của hệ thống?",
-  "answers": [
-    "Class Diagram",
-    "Activity Diagram",
-    "Component Diagram",
-    "Deployment Diagram"
-  ],
-  "correct": 1
-},
-{
-  "question": "Trong UML, mối quan hệ aggregation được biểu diễn bằng:",
-  "answers": [
-    "Đường thẳng",
-    "Đường đứt nét",
-    "Hình thoi rỗng",
-    "Hình thoi đặc"
-  ],
-  "correct": 2
-},
-{
-  "question": "Sơ đồ nào mô tả tương tác giữa các đối tượng theo thời gian?",
-  "answers": [
-    "State Diagram",
-    "Sequence Diagram",
-    "Activity Diagram",
-    "Use Case Diagram"
-  ],
-  "correct": 1
-},
-{
-  "question": "Trong UML, mối quan hệ composition được biểu diễn bằng:",
-  "answers": [
-    "Hình thoi rỗng",
-    "Hình thoi đặc",
-    "Đường thẳng",
-    "Đường đứt nét"
-  ],
-  "correct": 1
-},
-{
-  "question": "Sơ đồ nào mô tả cấu trúc tĩnh của hệ thống?",
-  "answers": [
-    "Activity Diagram",
-    "Sequence Diagram",
-    "Class Diagram",
-    "State Diagram"
-  ],
-  "correct": 2
-},
-{
-  "question": "Trong UML, actor là:",
-  "answers": [
-    "Một lớp trong hệ thống",
-    "Một đối tượng cụ thể",
-    "Người dùng hoặc hệ thống bên ngoài",
-    "Một phương thức của lớp"
-  ],
-  "correct": 2
-},
-{
-  "question": "Sơ đồ nào mô tả cách triển khai phần mềm lên phần cứng?",
-  "answers": [
-    "Component Diagram",
-    "Deployment Diagram",
-    "Package Diagram",
-    "Object Diagram"
-  ],
-  "correct": 1
-},
-{
-  "question": "Trong UML, mối quan hệ dependency được biểu diễn bằng:",
-  "answers": [
-    "Đường thẳng",
-    "Đường đứt nét với mũi tên",
-    "Hình thoi",
-    "Đường liền nét với mũi tên"
-  ],
-  "correct": 1
-},
-{
-  "question": "Sơ đồ nào mô tả cấu trúc của các thành phần phần mềm?",
-  "answers": [
-    "Deployment Diagram",
-    "Component Diagram",
-    "Class Diagram",
-    "Object Diagram"
-  ],
-  "correct": 1
-},
-{
-  "question": "Trong UML, mối quan hệ association được biểu diễn bằng:",
-  "answers": [
-    "Đường đứt nét",
-    "Đường liền nét",
-    "Hình thoi",
-    "Đường có mũi tên"
-  ],
-  "correct": 1
-},
-{
-  "question": "Sơ đồ nào mô tả các gói và phụ thuộc giữa chúng?",
-  "answers": [
-    "Component Diagram",
-    "Package Diagram",
-    "Deployment Diagram",
-    "Object Diagram"
-  ],
-  "correct": 1
-}
+    "question": "Sơ đồ nào mô tả luồng thực thi của hệ thống?",
+    "answers": [
+      "Class Diagram",
+      "Activity Diagram",
+      "Component Diagram",
+      "Deployment Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trong UML, mối quan hệ aggregation được biểu diễn bằng:",
+    "answers": [
+      "Đường thẳng",
+      "Đường đứt nét",
+      "Hình thoi rỗng",
+      "Hình thoi đặc"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Sơ đồ nào mô tả tương tác giữa các đối tượng theo thời gian?",
+    "answers": [
+      "State Diagram",
+      "Sequence Diagram",
+      "Activity Diagram",
+      "Use Case Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trong UML, mối quan hệ composition được biểu diễn bằng:",
+    "answers": [
+      "Hình thoi rỗng",
+      "Hình thoi đặc",
+      "Đường thẳng",
+      "Đường đứt nét"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào mô tả cấu trúc tĩnh của hệ thống?",
+    "answers": [
+      "Activity Diagram",
+      "Sequence Diagram",
+      "Class Diagram",
+      "State Diagram"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Trong UML, actor là:",
+    "answers": [
+      "Một lớp trong hệ thống",
+      "Một đối tượng cụ thể",
+      "Người dùng hoặc hệ thống bên ngoài",
+      "Một phương thức của lớp"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Sơ đồ nào mô tả cách triển khai phần mềm lên phần cứng?",
+    "answers": [
+      "Component Diagram",
+      "Deployment Diagram",
+      "Package Diagram",
+      "Object Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trong UML, mối quan hệ dependency được biểu diễn bằng:",
+    "answers": [
+      "Đường thẳng",
+      "Đường đứt nét với mũi tên",
+      "Hình thoi",
+      "Đường liền nét với mũi tên"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào mô tả cấu trúc của các thành phần phần mềm?",
+    "answers": [
+      "Deployment Diagram",
+      "Component Diagram",
+      "Class Diagram",
+      "Object Diagram"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trong UML, mối quan hệ association được biểu diễn bằng:",
+    "answers": [
+      "Đường đứt nét",
+      "Đường liền nét",
+      "Hình thoi",
+      "Đường có mũi tên"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sơ đồ nào mô tả các gói và phụ thuộc giữa chúng?",
+    "answers": [
+      "Component Diagram",
+      "Package Diagram",
+      "Deployment Diagram",
+      "Object Diagram"
+    ],
+    "correct": 1
+  }
 ]
